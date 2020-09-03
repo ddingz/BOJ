@@ -1,2 +1,13 @@
-# BOJ
-Step-by-step in 'Baekjoon Online Judge'
+# 백준 단계별로 풀어보기
+
+---
+
+1. 입출력과 사칙연산
+1. if문
+1. for문
+1. while문
+1. 실습1
+1. 1차원 배열
+1. 함수
+1. 문자열
+1. 수학1
